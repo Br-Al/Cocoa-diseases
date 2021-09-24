@@ -33,14 +33,17 @@ You will find the notebook containing the code for loading the data, training lo
 ![image](https://user-images.githubusercontent.com/58564800/134663077-cb5deb7f-01ef-487c-973a-66232f8a9881.png)
 ![image](https://user-images.githubusercontent.com/58564800/134663101-14beae01-a041-4d99-b4c9-5b6714bf9a80.png)
 ![image](https://user-images.githubusercontent.com/58564800/134663109-94c0f8f1-13a0-4225-82f7-45fa54d45e45.png)
+### Model inference (Results)
+#### Single Image
 ![image](https://user-images.githubusercontent.com/58564800/134663134-1ea97165-b583-4cef-9459-5374aec0cd53.png)
 ![image](https://user-images.githubusercontent.com/58564800/134663147-c9de1752-d88d-40a1-bb66-9430e212864a.png)
 ![image](https://user-images.githubusercontent.com/58564800/134663165-75504c73-67da-4ff1-971e-5f028a4b952f.png)
-11.	References
-
-Pytorch documentation & tutorial: [(https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)]
-Depthai Documentation : [(https://docs.luxonis.com/en/latest/#depthai-s-documentation)]
-Kaggle dataset: [(https://www.kaggle.com/zaldyjr/cacao-diseases)]
-Tensorflow images segmentation tutorial : [(https://www.tensorflow.org/tutorials/images/segmentation)]
-Learn OpenCV tutorials : [(https://learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/)]
-Udacity course : [(https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)]
+#### Video or Camera
+https://youtu.be/Y92uDanvjzM
+### References
+Pytorch documentation & tutorial: https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+Depthai Documentation : https://docs.luxonis.com/en/latest/#depthai-s-documentation
+Kaggle dataset: https://www.kaggle.com/zaldyjr/cacao-diseases
+Tensorflow images segmentation tutorial : https://www.tensorflow.org/tutorials/images/segmentation
+Learn OpenCV tutorials : https://learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
+Udacity course : https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131
