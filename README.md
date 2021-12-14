@@ -1,4 +1,4 @@
-# Cocoa-diseasis
+# Cocoa-diseases
 Using OpenVino and OAK-D combined, we will train an object detection model(PyTorch) to identify all types of insect pests for cocoa trees, to identify the symptoms and signs present on each part of the cocoa tree (leaves, pods, stems, etc.).
 ## Problem
 30 to 40% of the world's annual cocoa production is lost due to insects and pathologies. This represents around 558,000 tones out of a total of over 3.9 million annual production. Cocoa is produced mainly by developing countries, which do not have the appropriate technology to ensure its healthy and sustainable production. How to use artificial intelligence to detect insects and pathologies harmful to cocoa production?
